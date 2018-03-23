@@ -1,0 +1,42 @@
+.header {
+	
+	width: 100%;
+	min-height: 100px; 
+	background-color:#CCC; 
+	padding: 20px; 
+	margin: 0px 0px 10px 0px; 
+	text-align:center; 
+	font-weight: bold; 
+	font-family: Verdana, Geneva, sans-serif;
+	color: white; 
+	border-bottom: 3px solid black;
+	
+	}
+
+	
+	
+.sea_img {
+	
+	display: block;
+	max-width: 100%;
+	height: auto;
+	
+	}
+	
+	
+	
+/* Portfolio Styles
+/* -------------------------------------*/
+#portfolio .portfolio-item {
+    right: 0;
+    margin: 0 0 15px;
+}
+
+@media(min-width:767px) {
+    #portfolio .portfolio-item {
+        margin: 0 0 30px;
+    }
+}
+
+
+
